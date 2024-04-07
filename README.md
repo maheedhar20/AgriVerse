@@ -11,3 +11,6 @@ It has multiple features like:
 4. Providing Information related to various Crops : It displays the Information like Optimal Temperature, Rainfall and Humidity that ensures the best yield for the crop selected by the User.
 
 5. Improving the Models : Accurate and Verified data Collected from the Farmers can help us enhance our models.
+
+Tech Stack :
+![image](https://github.com/maheedhar20/AgriVerse/assets/141332900/7662f242-a89d-40f1-9c9a-25bdf1d11945)
