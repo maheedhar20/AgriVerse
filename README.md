@@ -11,16 +11,16 @@ It has multiple features like:
 4. Improving the Models : Accurate and Verified data Collected from the Farmers can help us enhance our models.
 
 Tech Stack :
-HTML
-CSS
-Javascript
-React js
-Python
-NumPy
-Pandas
-matplotlib
-scikit learn
-Tailwind CSS
-PyTorch
-TensorFlow
+HTML,
+CSS,
+Javascript,
+React js,
+Python,
+NumPy,
+Pandas,
+matplotlib,
+scikit learn,
+Tailwind CSS,
+PyTorch,
+TensorFlow,
 Flask
