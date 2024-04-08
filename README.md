@@ -10,6 +10,8 @@ It has multiple features like:
 
 4. Improving the Models : Accurate and Verified data Collected from the Farmers can help us enhance our models.
 
+Made Plant Disease Production Model but couldn't integrate it into Website
+
 Tech Stack :
 HTML,
 CSS,
@@ -24,3 +26,6 @@ Tailwind CSS,
 PyTorch,
 TensorFlow,
 Flask
+
+Idea Presentation : https://docs.google.com/presentation/d/1mlpal4hxLAWBzE9PRh0jVNcgOPXd02uq/edit?usp=drive_link&ouid=107585621872845076620&rtpof=true&sd=true
+Video Presentation link : https://youtu.be/aEfZSsW8qL8?si=4ge09jNMB3D5YjBw
