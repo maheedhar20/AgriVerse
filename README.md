@@ -10,7 +10,6 @@ It has multiple features like:
 
 4. Improving the Models : Accurate and Verified data Collected from the Farmers can help us enhance our models.
 
-Made Plant Disease Production Model but couldn't integrate it into Website
 
 Tech Stack :
 HTML,
